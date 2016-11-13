@@ -1,11 +1,10 @@
-
+Juste a couple of side notes.
 
 #install Postgresql
  - install package (apt-get)
  - create a user by using postgresql terminal
  - configure the file config/database.yml
  - Usefull link: https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-14-04
-
 
 
 #Usage of auth API
