@@ -1,4 +1,4 @@
-PROJECT_NAME := api-authentication
+PROJECT_NAME := pumgrana-api-authentication
 REGISTRY := docker.pumgrana.com
 
 docker:
